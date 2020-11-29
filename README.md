@@ -6,6 +6,8 @@ https://github.com/skiselev
 
 # IMAGES
 
-![Alt text](https://github.com/capsule5000/1/blob/main/1.png)
+![Alt text](https://github.com/capsule5000/O4MEGA_v2/blob/main/Images/o4megav2.png)
+
+![Alt text](https://github.com/capsule5000/O4MEGA_v2/blob/main/Images/o4megav2_2.png)
 
  
